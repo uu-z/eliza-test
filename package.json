@@ -38,6 +38,7 @@
   "engines": {
     "node": ">=22"
   },
+  "packageManager": "pnpm@latest",
   "pnpm": {
     "overrides": {
       "onnxruntime-node": "1.20.0"
